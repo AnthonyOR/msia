@@ -1,6 +1,5 @@
 toto
 
-titi
 titi et toto
 
 tutu
